@@ -1,8 +1,11 @@
-# Stock Risk Prediction System 🚀
+<div align="center">
 
-## Monte Carlo-Based Stock Price Interval Prediction and Portfolio Risk Simulation
+# Montevo 🚀
+## Monte Carlo Based Stock Price Interval Prediction and Portfolio Risk Simulation
 
 This application provides probabilistic stock price predictions using Monte Carlo simulation methods with strong statistical foundations. It predicts price intervals (confidence intervals) rather than point estimates, and includes comprehensive risk metrics and stress testing capabilities.
+
+</div>
 
 ---
 
@@ -104,6 +107,7 @@ See `requirements.txt` for complete list:
    - Like Sharpe, but only penalizes downside volatility
    - Formula: (Return - Risk-Free Rate) / Downside Deviation
    - More appropriate for asymmetric returns
+
 
 
 
